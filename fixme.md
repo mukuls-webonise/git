@@ -1,4 +1,4 @@
-Fixed
+Important notes
 
 Merge Messages are not good
 
